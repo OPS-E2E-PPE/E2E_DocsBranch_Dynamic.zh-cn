@@ -7,6 +7,3 @@
 
 ## Fallback codesnippt
 [!code-csharp[Main](codesnippt.cs#L3-L18 "This is test1 codeSnippet")]
-
-## Fallback page
-This is the [page](./fallbackpageinsource.md) from source repo.
