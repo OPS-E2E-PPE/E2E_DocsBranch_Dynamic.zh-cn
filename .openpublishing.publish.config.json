@@ -41,5 +41,11 @@
       }
     }
   ],
+  "branch_target_mapping": {
+   "buildpdf-e2e": [
+      "Publish",
+      "Pdf"
+    ]
+  },
   "need_generate_pdf_url_template": false
 }
